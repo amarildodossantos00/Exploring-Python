@@ -1,0 +1,5 @@
+name = input("What is your name? => ")
+receive_number =  input("Write a number => ")
+number = int(receive_number)
+print(f"Your name is => {name}")
+print(f"Number is => {number}")
